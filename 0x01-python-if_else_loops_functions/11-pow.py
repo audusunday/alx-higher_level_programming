@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Solomon Iniodu
+# Author - Sunday Audu
 
 def pow(a, b):
     return (a ** b)
