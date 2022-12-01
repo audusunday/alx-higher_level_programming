@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Solomon Iniodu
+# Author - Sunday Audu
 
 def uppercase(str):
     """Print a string in uppercase."""
@@ -8,8 +8,3 @@ def uppercase(str):
             c = chr(ord(c) - 32)
         print("{}".format(c), end="")
     print("")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priv
