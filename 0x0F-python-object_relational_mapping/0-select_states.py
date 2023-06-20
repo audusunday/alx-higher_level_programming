@@ -1,4 +1,4 @@
-i!/usr/bin/python3
+#!/usr/bin/python3
 """this script that lists all states from a 
 given db
 """
